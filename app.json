@@ -96,7 +96,7 @@
     {
       "description": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
       "required":true,
-      "value": "255693629079"
+      "value": ""
     },
     "WARN_COUNT":
     {
@@ -122,7 +122,7 @@
     },
     "CHATBOT": {
       "description": "Enable or disable the chatbot. Type yes to activate or no to deactivate (don't write in capital letter)",
-      "value": "yes",
+      "value": "no",
       "required": false
     }
   },
